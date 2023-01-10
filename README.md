@@ -1,1 +1,3 @@
-# koerfy.github.io
+# About Me
+
+Hi there! My name is Koerfy Bellefleur. I am a former high school science teacher currently on track to earning a professional certificate in coding from MIT. The challenge and satisfaction of writing successful codes motivate me greatly. I am excited to gain more knowledge and expertise and use my skills to help future clients and employers.
